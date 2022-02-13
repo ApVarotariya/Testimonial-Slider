@@ -45,6 +45,9 @@
   box-shadow: 0px 20px 60px rgba(46, 33, 61, 0.08) !important;
   border-radius: 10px;
 }
+.animated-slider .next_hidden {
+  left: 125px !important;
+}
 .sbs-testimonial-slider .sbs-arrowright i {
   transition: all 0.3s ease-in;
 }
